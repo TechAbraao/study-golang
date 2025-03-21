@@ -17,4 +17,8 @@ func main() {
 	// Ou seja, o compilador define o tipo conforme estabelecemos
 	newName := "Abraão"
 	fmt.Println(newName)
+
+	var ageOne, ageTwo int = 20, 30
+	fmt.Println("Idades com variáveis combinadas: ")
+	fmt.Println(ageOne, ageTwo)
 }

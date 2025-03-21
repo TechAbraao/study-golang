@@ -18,7 +18,7 @@ func main() {
 
 	fmt.Println("Digite a frase 'Olá, mundo!'")
 	fmt.Println()
-	fmt.Scanln(&helloWorldTwo) 
+	fmt.Scanln(&helloWorldTwo)
 
 	if helloWorldTwo == "Olá, mundo!" {
 		fmt.Println("Correto.")
