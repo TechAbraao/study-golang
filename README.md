@@ -6,6 +6,9 @@
 <h2>📖 CONTEÚDO ABORDADO </h2>
 <ul>
     <li> Aprenda Go / Golang (Curso Tutorial de Programação) de Mundo Tech Software School </li>
+    <li> Tipos de Dados </li>
+    <li> Variáveis e Declaração de variáveis dinâmicas </li>
+    <li> Concatenação de Strings e Conversão entre Tipos </li>
 </ul>
 <h2>⚙️ TECNOLOGIAS</h2>
 <div align="center">
