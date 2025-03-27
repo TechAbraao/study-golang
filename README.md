@@ -9,6 +9,7 @@
     <li> Tipos de Dados </li>
     <li> Variáveis e Declaração de variáveis dinâmicas </li>
     <li> Concatenação de Strings e Conversão entre Tipos </li>
+    <li> Funções, retorno de funções e valores de retorno nomeados </li>
 </ul>
 <h2>⚙️ TECNOLOGIAS</h2>
 <div align="center">
