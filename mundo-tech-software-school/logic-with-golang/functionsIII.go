@@ -2,10 +2,10 @@ package main
 
 import "fmt"
 
-func soma(x int, y int) (int) {
+func soma(x int, y int) int {
 	return x + y
 }
-func sub(x int, y int) (int) {
+func sub(x int, y int) int {
 	return x - y
 }
 func informations(name string, lastname string) (string, string) {
